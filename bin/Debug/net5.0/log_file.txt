@@ -1,0 +1,21 @@
+2021-09-26 13:39:46.9492|INFO|MovieLibrary.Program|Program started
+2021-09-26 13:39:54.8970|INFO|MovieLibrary.Program|Program ended
+2021-09-26 13:49:29.8856|INFO|MovieLibrary.Program|Program started
+2021-09-26 13:49:32.5269|INFO|MovieLibrary.Program|Program ended
+2021-09-26 13:52:37.1594|INFO|MovieLibrary.Program|Program started
+2021-09-26 13:52:39.6401|INFO|MovieLibrary.Program|Program ended
+2021-09-26 13:53:20.4382|INFO|MovieLibrary.Program|Program started
+2021-09-26 13:53:21.3966|ERROR|MovieLibrary.Program|File does not exist.
+2021-09-26 13:53:21.3966|INFO|MovieLibrary.Program|Program ended
+2021-09-26 13:56:13.3271|INFO|MovieLibrary.Program|Program started
+2021-09-26 13:56:15.8063|INFO|MovieLibrary.Program|Program ended
+2021-09-26 14:00:41.9953|INFO|MovieLibrary.Program|Program started
+2021-09-26 14:00:44.4767|INFO|MovieLibrary.Program|Program ended
+2021-09-26 14:11:30.5515|INFO|MovieLibrary.Program|Program started
+2021-09-26 14:11:33.3642|INFO|MovieLibrary.Program|Program ended
+2021-09-26 14:28:16.9304|INFO|MovieLibrary.Program|Program started
+2021-09-26 14:28:20.9086|INFO|MovieLibrary.Program|Program ended
+2021-09-26 14:34:51.1774|INFO|MovieLibrary.Program|Program started
+2021-09-26 14:34:53.9553|INFO|MovieLibrary.Program|Program ended
+2021-09-26 14:45:26.5289|INFO|MovieLibrary.Program|Program started
+2021-09-26 14:45:29.5442|INFO|MovieLibrary.Program|Program ended
